@@ -67,13 +67,7 @@ localhost:portnumber
 
 ---
 
-# System Architecture
-
-```text
-Push Service --> Kafka --> Check Service --> Redis Cluster
-```
-
----
+![System Architecture](image/system-architecture.png)
 
 # System Requirements
 
