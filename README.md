@@ -66,8 +66,9 @@ localhost:portnumber
 ```
 
 ---
-
-![System Architecture](image/system-architecture.png)
+System Architecture
+![System Architecture](system_architechture.png)
+---
 
 # System Requirements
 
